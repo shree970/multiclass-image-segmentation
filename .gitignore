@@ -1,0 +1,13 @@
+/Train*
+/Valid*
+/Trans*
+/sandstone*
+*.pdf
+*.gz
+*.pth
+*.zip
+/segmentation_models
+*.png
+*/.vscode
+.~lock*
+.directory
